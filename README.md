@@ -47,5 +47,3 @@ Repeat for other services as needed.
 - Update `.env` files as needed for local configuration.
 
 ---
-
-Feel free to extend this README as you add more services or features.
